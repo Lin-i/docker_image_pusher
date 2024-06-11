@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm
+mintplexlabs/anythingllm:latest
