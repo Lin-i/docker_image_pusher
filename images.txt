@@ -1,1 +1,2 @@
 mintplexlabs/anythingllm:latest
+mintplexlabs/anythingllm:master
